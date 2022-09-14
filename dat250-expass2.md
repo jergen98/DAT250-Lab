@@ -5,7 +5,11 @@ I had no teknical problems under innstallation of the Java Persistence Architect
 
 ## link to your code for experiment 2
 https://github.com/jergen98/Experiment-2
+
 The test passes!
+
+![image](https://user-images.githubusercontent.com/81374042/190220748-21e896d4-c7fa-469c-bce9-f250745772fe.png)
+
 
 ## Inspect Database
 The database:
