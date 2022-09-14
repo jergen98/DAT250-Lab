@@ -8,7 +8,14 @@ https://github.com/jergen98/Experiment-2
 The test passes!
 
 ## Inspect Database
+The database:
+
 <img width="585" alt="image" src="https://user-images.githubusercontent.com/81374042/190217775-bff51848-bbb2-4ca5-86ec-a21120061e0d.png">
+
+The values in the CREDITCARD table:
+
+![image](https://user-images.githubusercontent.com/81374042/190220574-a5524f88-5238-42cb-b03e-e2efd75a6619.png)
+
 
 I inspected the databse by following the video example that was posted on Canvas.
 
