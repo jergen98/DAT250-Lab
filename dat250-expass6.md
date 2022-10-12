@@ -1,7 +1,9 @@
 # DAT250-Lab
 
 ### Technical problems
-Some technicsl problems with CRUD but i managed to solve it.
+--Some technicsl problems with CRUD but i managed to solve it.
+
+--Needed to do some changes to the Api, the delete api was a bit wrong.  
 
 ### Link to code
 #### Angular: 
